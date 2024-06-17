@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Hanoi",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-04-19T14:41:09.526Z",
+      "notes": "fdsfdsf",
+      "position": {
+        "lat": "20.786842105957632",
+        "lng": "105.64927899932773"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Moscow",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2020-04-19T14:45:35.000Z",
+      "notes": "nhu kec",
+      "position": {
+        "lat": "55.78142568183449",
+        "lng": "37.70072974146807"
+      },
+      "id": 73930387
+    }
+  ]
+}
